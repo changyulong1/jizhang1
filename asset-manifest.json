@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jizhang1/static/css/main.dfec846c.css",
+    "main.js": "/jizhang1/static/js/main.ca1c37aa.js",
+    "index.html": "/jizhang1/index.html",
+    "main.dfec846c.css.map": "/jizhang1/static/css/main.dfec846c.css.map",
+    "main.ca1c37aa.js.map": "/jizhang1/static/js/main.ca1c37aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfec846c.css",
+    "static/js/main.ca1c37aa.js"
+  ]
+}
